@@ -1,0 +1,7 @@
+//arch = zynqmp; split = false; format = BIN
+the_ROM_image:
+{
+	[fsbl_config]a53_x64
+	[bootloader]E:\e38\project_1.sdk\SD_BOOT\Debug\SD_BOOT.elf
+	[destination_device = pl]E:\e38\project_1.sdk\design_1_wrapper_hw_platform_0\design_1_wrapper.bit
+}

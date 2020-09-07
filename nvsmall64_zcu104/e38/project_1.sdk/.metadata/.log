@@ -1,0 +1,376 @@
+!SESSION 2019-09-09 15:07:05.941 -----------------------------------------------
+eclipse.buildId=2018.3
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data E:/e38/project_1.sdk
+
+This is a continuation of log file E:\e38\project_1.sdk\.metadata\.bak_0.log
+Created Time: 2019-09-09 15:47:58.808
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:47:58.810
+!MESSAGE XSCT Command: [con], Thread: Worker-17
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:47:58.856
+!MESSAGE XSCT command with result: [con], Result: [null, ]. Thread: Worker-17
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:43.329
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/e38/project_1.sdk/design_1_wrapper_hw_platform_0/system.hdf E:/e38/project_1.sdk/standalone_bsp_0/system.mss ], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:43.334
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/e38/project_1.sdk/design_1_wrapper_hw_platform_0/system.hdf E:/e38/project_1.sdk/standalone_bsp_0/system.mss ], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:43.337
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/e38/project_1.sdk/design_1_wrapper_hw_platform_0/system.hdf E:/e38/project_1.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:43.341
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/e38/project_1.sdk/design_1_wrapper_hw_platform_0/system.hdf E:/e38/project_1.sdk/standalone_bsp_0/system.mss], Result: [null, {"procname": "psu_cortexa53_0",
+"osname": "standalone",
+"osver": "6.8",
+}]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:43.344
+!MESSAGE XSCT Command: [::hsi::utils::closesw E:/e38/project_1.sdk/standalone_bsp_0/system.mss], Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:43.348
+!MESSAGE XSCT command with result: [::hsi::utils::closesw E:/e38/project_1.sdk/standalone_bsp_0/system.mss], Result: [null, ]. Thread: main
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:55.373
+!MESSAGE XSCT Command: [disconnect tcfchan#1], Thread: Thread-379
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:55.385
+!MESSAGE XSCT command with result: [disconnect tcfchan#1], Result: [null, ]. Thread: Thread-379
+
+!ENTRY com.xilinx.sdk.utils 1 0 2019-09-09 15:51:56.384
+!MESSAGE Updating toolusage
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:56.393
+!MESSAGE XSCT Command: [connect -url tcp:127.0.0.1:3121], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:56.409
+!MESSAGE XSCT command with result: [connect -url tcp:127.0.0.1:3121], Result: [null, tcfchan#3]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:56.417
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:56.440
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* Xilinx HW-Z1-ZCU104 FT4232H 92909A]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:56.443
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:56.453
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* Xilinx HW-Z1-ZCU104 FT4232H 92909A]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:56.455
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A" && level==1}], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:56.497
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A" && level==1}], Result: [null,      2  xczu7 (idcode 14730093 irlen 12 fpga)
+     5  arm_dap (idcode 5ba00477 irlen 4)]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:51:56.502
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw E:/e38/project_1.sdk/design_1_wrapper_hw_platform_0/system.hdf E:/e38/project_1.sdk/standalone_bsp_0/system.mss ], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.729
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw E:/e38/project_1.sdk/design_1_wrapper_hw_platform_0/system.hdf E:/e38/project_1.sdk/standalone_bsp_0/system.mss ], Result: [null, ]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.732
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json E:/e38/project_1.sdk/design_1_wrapper_hw_platform_0/system.hdf E:/e38/project_1.sdk/standalone_bsp_0/system.mss], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.738
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json E:/e38/project_1.sdk/design_1_wrapper_hw_platform_0/system.hdf E:/e38/project_1.sdk/standalone_bsp_0/system.mss], Result: [null, {"procname": "psu_cortexa53_0",
+"osname": "standalone",
+"osver": "6.8",
+}]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.743
+!MESSAGE XSCT Command: [::hsi::utils::get_config_params_for_sw -json E:/e38/project_1.sdk/design_1_wrapper_hw_platform_0/system.hdf E:/e38/project_1.sdk/standalone_bsp_0/system.mss], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.793
+!MESSAGE XSCT command with result: [::hsi::utils::get_config_params_for_sw -json E:/e38/project_1.sdk/design_1_wrapper_hw_platform_0/system.hdf E:/e38/project_1.sdk/standalone_bsp_0/system.mss], Result: [null, {"psu_cortexa53_0": {"archiver": {"category": "",
+"value": "aarch64-none-elf-ar",
+"default": "aarch64-none-elf-ar",
+"type": "string",
+"desc": "Archiver used to archive libraries for both BSP generation as well as for applications",
+"permit": "",
+"options": {},
+"range": "",
+},
+"compiler": {"category": "",
+"value": "aarch64-none-elf-gcc",
+"default": "aarch64-none-elf-gcc",
+"type": "string",
+"desc": "Compiler used to compile both BSP/Libraries and Applications.",
+"permit": "",
+"options": {},
+"range": "",
+},
+"compiler_flags": {"category": "",
+"value": "-O2 -c",
+"default": "-O2 -c",
+"type": "string",
+"desc": "Compiler flags used in BSP and library generation. '-c' flag stands for 'compile and assemble, but do not link'. Without this flag, gcc tries to link the code, which will fail bacause there is no application involved during libgen. '-O2' can be overwritten by extra compiler flags",
+"permit": "none",
+"options": {},
+"range": "",
+},
+"exec_mode": {"category": "",
+"value": "aarch64",
+"default": "aarch64",
+"type": "enum",
+"desc": "Execution mode of the processor - aarch32 vs aarch64",
+"permit": "",
+"options": {"AARCH32": "aarch32",
+"AARCH64": "aarch64",
+},
+"range": "",
+},
+"extra_compiler_flags": {"category": "",
+"value": "-g -Wall -Wextra",
+"default": "-g -Wall -Wextra",
+"type": "string",
+"desc": "Extra compiler flags used in BSP and library generation.",
+"permit": "",
+"options": {},
+"range": "",
+},
+},
+"standalone": {"enable_sw_intrusive_profiling": {"category": "sw_intrusive_profiling",
+"value": "false",
+"default": "false",
+"type": "bool",
+"desc": "Enable S/W Intrusive Profiling on Hardware Targets",
+"permit": "user",
+"options": {},
+"range": "",
+},
+"hypervisor_guest": {"category": "",
+"value": "false",
+"default": "false",
+"type": "bool",
+"desc": "Enable hypervisor guest support for A53 64bit EL1 Non-Secure. If hypervisor_guest is not selected, BSP will be built for EL3.",
+"permit": "user",
+"options": {},
+"range": "",
+},
+"lockstep_mode_debug": {"category": "",
+"value": "false",
+"default": "false",
+"type": "bool",
+"desc": "Enable debug logic in non-JTAG boot mode, when Cortex R5 is configured in lockstep mode",
+"permit": "user",
+"options": {},
+"range": "",
+},
+"microblaze_exceptions": {"category": "microblaze_exceptions",
+"value": "false",
+"default": "false",
+"type": "bool",
+"desc": "Enable MicroBlaze Exceptions",
+"permit": "user",
+"options": {},
+"range": "",
+},
+"predecode_fpu_exceptions": {"category": "microblaze_exceptions",
+"value": "false",
+"default": "false",
+"type": "bool",
+"desc": "(MicroBlaze) Predecode FPU exceptions and save operand info before invoking user registered exception handler.",
+"permit": "user",
+"options": {},
+"range": "",
+},
+"profile_timer": {"category": "sw_intrusive_profiling",
+"value": "none",
+"default": "none",
+"type": "peripheral_instance",
+"desc": "Specify the Timer to use for Profiling. For PowerPC system, specify none to use PIT timer. For ARM system, specify none to use SCU timer",
+"permit": "",
+"options": {},
+"range": "",
+},
+"sleep_timer": {"category": "",
+"value": "none",
+"default": "none",
+"type": "peripheral_instance",
+"desc": "This parameter is used to select specific timer for sleep functionality",
+"permit": "user",
+"options": {},
+"range": "psu_ttc_3 psu_ttc_2 psu_ttc_1 psu_ttc_0 psu_iou_scntr psu_iou_scntrs",
+},
+"stdin": {"category": "",
+"value": "psu_uart_0",
+"default": "none",
+"type": "peripheral_instance",
+"desc": "stdin peripheral",
+"permit": "",
+"options": {},
+"range": "psu_coresight_0 psu_uart_0 psu_uart_1",
+},
+"stdout": {"category": "",
+"value": "psu_uart_0",
+"default": "none",
+"type": "peripheral_instance",
+"desc": "stdout peripheral",
+"permit": "",
+"options": {},
+"range": "psu_coresight_0 psu_uart_0 psu_uart_1",
+},
+"ttc_select_cntr": {"category": "",
+"value": "2",
+"default": "2",
+"type": "enum",
+"desc": "Selects the counter to be used in the repective module. Allowed range is 0-2",
+"permit": "user",
+"options": {"0": "0",
+"1": "1",
+"2": "2",
+},
+"range": "",
+},
+"zynqmp_fsbl_bsp": {"category": "",
+"value": "false",
+"default": "false",
+"type": "bool",
+"desc": "Disable or Enable Optimization for FSBL's BSP. ZynqMP FSBL will set this to true",
+"permit": "",
+"options": {},
+"range": "",
+},
+},
+}]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.798
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.810
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* Xilinx HW-Z1-ZCU104 FT4232H 92909A]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.814
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A" && level==1}], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.840
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A" && level==1}], Result: [null,      2  xczu7 (idcode 14730093 irlen 12 fpga)
+     5  arm_dap (idcode 5ba00477 irlen 4)]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.845
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.855
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* Xilinx HW-Z1-ZCU104 FT4232H 92909A]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.859
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A" && level==1}], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.884
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A" && level==1}], Result: [null,      2  xczu7 (idcode 14730093 irlen 12 fpga)
+     5  arm_dap (idcode 5ba00477 irlen 4)]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.888
+!MESSAGE XSCT Command: [version -server], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.894
+!MESSAGE XSCT command with result: [version -server], Result: [null, 2018.3]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.897
+!MESSAGE XSCT Command: [version], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.902
+!MESSAGE XSCT command with result: [version], Result: [null, xsct 2018.3
+SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.906
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.916
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* Xilinx HW-Z1-ZCU104 FT4232H 92909A]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.920
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A" && level==1}], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.945
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A" && level==1}], Result: [null,      2  xczu7 (idcode 14730093 irlen 12 fpga)
+     5  arm_dap (idcode 5ba00477 irlen 4)]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.950
+!MESSAGE XSCT Command: [jtag targets -set -filter {name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A" && level == 0}], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.975
+!MESSAGE XSCT command with result: [jtag targets -set -filter {name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A" && level == 0}], Result: [null, ]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.980
+!MESSAGE XSCT Command: [jtag frequency], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.985
+!MESSAGE XSCT command with result: [jtag frequency], Result: [null, 15000000]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.989
+!MESSAGE XSCT Command: [source F:/Xilinx/SDK/2018.3/scripts/sdk/util/zynqmp_utils.tcl], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:07.997
+!MESSAGE XSCT command with result: [source F:/Xilinx/SDK/2018.3/scripts/sdk/util/zynqmp_utils.tcl], Result: [null, ]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:08.001
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~"APU*" && jtag_cable_name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A"} -index 1], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:08.038
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~"APU*" && jtag_cable_name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A"} -index 1], Result: [null, ]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:08.042
+!MESSAGE XSCT Command: [loadhw -hw E:/e38/project_1.sdk/design_1_wrapper_hw_platform_0/system.hdf -mem-ranges [list {0x80000000 0xbfffffff} {0x400000000 0x5ffffffff} {0x1000000000 0x7fffffffff}]], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:08.393
+!MESSAGE XSCT command with result: [loadhw -hw E:/e38/project_1.sdk/design_1_wrapper_hw_platform_0/system.hdf -mem-ranges [list {0x80000000 0xbfffffff} {0x400000000 0x5ffffffff} {0x1000000000 0x7fffffffff}]], Result: [null, design_1_wrapper_0]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:08.398
+!MESSAGE XSCT Command: [configparams force-mem-access 1], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:08.403
+!MESSAGE XSCT command with result: [configparams force-mem-access 1], Result: [null, ]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:08.407
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~"*A53*0" && jtag_cable_name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A"} -index 1], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:08.438
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~"*A53*0" && jtag_cable_name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A"} -index 1], Result: [null, ]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:08.442
+!MESSAGE XSCT Command: [rst -processor], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:08.485
+!MESSAGE XSCT command with result: [rst -processor], Result: [null, ]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:08.489
+!MESSAGE XSCT Command: [dow E:/e38/project_1.sdk/conv_8x8_3x3_fc_ic32_oc32/Debug/conv_8x8_3x3_fc_ic32_oc32.elf], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:09.056
+!MESSAGE XSCT command with result: [dow E:/e38/project_1.sdk/conv_8x8_3x3_fc_ic32_oc32/Debug/conv_8x8_3x3_fc_ic32_oc32.elf], Result: [null, ]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:09.062
+!MESSAGE XSCT Command: [configparams force-mem-access 0], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:09.067
+!MESSAGE XSCT command with result: [configparams force-mem-access 0], Result: [null, ]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:09.103
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~"*A53*0" && jtag_cable_name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A"} -index 1], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:09.136
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~"*A53*0" && jtag_cable_name =~ "Xilinx HW-Z1-ZCU104 FT4232H 92909A"} -index 1], Result: [null, ]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:09.140
+!MESSAGE XSCT Command: [con], Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:09.187
+!MESSAGE XSCT command with result: [con], Result: [null, ]. Thread: Worker-26
+
+!ENTRY com.xilinx.sdk.utils 1 0 2019-09-09 15:52:19.659
+!MESSAGE Executed Webtalk command
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:19.675
+!MESSAGE XSCT Command: [disconnect tcfchan#3], Thread: Thread-423
+
+!ENTRY com.xilinx.sdk.utils 0 0 2019-09-09 15:52:19.681
+!MESSAGE XSCT command with result: [disconnect tcfchan#3], Result: [null, ]. Thread: Thread-423

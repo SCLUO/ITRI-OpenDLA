@@ -1,0 +1,14 @@
+prefix=/root/extend/qt_build_5123
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+host_bins=${prefix}/bin
+qt_config=shared rpath release c++11 c++14 concurrent dbus reduce_exports stl properties animation textcodec big_codecs clock-monotonic codecs textdate datestring doubleconversion eventfd filesystemiterator filesystemwatcher gestures glib iconv itemmodel proxymodel identityproxymodel inotify library mimetype process statemachine regularexpression settings sharedmemory sortfilterproxymodel stringlistmodel systemsemaphore temporaryfile threadsafe-cloexec translation xmlstream xmlstreamreader xmlstreamwriter accessibility action clipboard colornames cssparser cursor desktopservices imageformat_xpm draganddrop freetype fontconfig imageformatplugin harfbuzz highdpiscaling ico im image_heuristic_mask image_text imageformat_bmp imageformat_jpeg imageformat_png imageformat_ppm imageformat_xbm kms movie pdf picture sessionmanager shortcut standarditemmodel systemtrayicon tabletevent texthtmlparser textodfwriter validator whatsthis wheelevent networkinterface bearermanagement ftp getifaddrs http ipv6ifname localserver networkdiskcache networkproxy socks5 udpsocket printer printdialog printpreviewwidget printpreviewdialog groupbox buttongroup menu lineedit spinbox slider scrollbar scrollarea itemviews tableview toolbutton calendarwidget colordialog listview columnview combobox completer contextmenu datawidgetmapper datetimeedit dial filesystemmodel dirmodel resizehandler mainwindow dockwidget textedit errormessage splitter stackedwidget treeview filedialog fontcombobox fontdialog fscompleter graphicsview graphicseffect inputdialog keysequenceedit lcdnumber listwidget mdiarea menubar messagebox paint_debug progressbar progressdialog rubberband sizegrip splashscreen statusbar statustip style-stylesheet syntaxhighlighter tabbar tablewidget tabwidget textbrowser toolbar toolbox tooltip treewidget undocommand undostack undogroup undoview wizard dom properties animation textcodec big_codecs clock-monotonic codecs textdate datestring doubleconversion eventfd filesystemiterator filesystemwatcher gestures glib iconv itemmodel proxymodel identityproxymodel inotify library mimetype process statemachine regularexpression settings sharedmemory sortfilterproxymodel stringlistmodel systemsemaphore temporaryfile threadsafe-cloexec translation xmlstream xmlstreamreader xmlstreamwriter
+
+Name: Qt5 Core
+Description: Qt Core module
+Version: 5.12.3
+Libs: -L${libdir} -lQt5Core 
+Cflags: -DQT_CORE_LIB -I${includedir}/QtCore -I${includedir}
+

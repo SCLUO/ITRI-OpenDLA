@@ -1,0 +1,6 @@
+15:51:52 **** Incremental Build of configuration Debug for project conv_8x8_3x3_fc_ic32_oc32 ****
+make all 
+make: Nothing to be done for 'all'.
+
+15:51:53 Build Finished (took 366ms)
+

@@ -1,0 +1,1000 @@
+丁鱖魚--Tench--水生類
+金魚--Goldfish--水生類
+大白鯊--Great White Shark--水生類
+虎鯊--Tiger Shark--水生類
+雙髻鯊--Hammerhead--水生類
+電鰩--Electric Ray--水生類
+刺魟--Stingray--水生類
+雞--Cock--鳥類
+雞--Hen--鳥類
+鴕鳥--Ostrich--鳥類
+花雀--Brambling--鳥類
+金翅雀--Goldfinch--鳥類
+家雀--House Finch--鳥類
+草鵐--Junco--鳥類
+紅雀--Indigo Bunting--鳥類
+知更鳥--Robin--鳥類
+夜鶯--Bulbul--鳥類
+松鴉--Jay--鳥類
+喜鵲--Magpie--鳥類
+山雀--Chickadee--鳥類
+水鶇--Water Ouzel--鳥類
+鳶類--Kite--鳥類
+白頭鷹--Bald Eagle--鳥類
+禿鷲--Vulture--鳥類
+貓頭鷹--Great Grey Owl--鳥類
+火蠑螈--Fire Salamander--兩棲類
+蠑螈--Common Newt--兩棲類
+鯢--Eft--兩棲類
+斑點蠑螈--Spotted Salamander--兩棲類
+蠑螈--Axolotl--兩棲類
+牛蛙--Bullfrog--兩棲類
+樹蛙--Tree Frog--兩棲類
+尾青蛙--Tailed Frog--兩棲類
+赤蠵龜--Loggerhead--爬蟲類
+棱皮龜--Leatherback Turtle--爬蟲類
+泥龜--Mud Turtle--爬蟲類
+菱斑龜--Terrapin--爬蟲類
+箱龜--Box Turtle--爬蟲類
+壁虎--Banded Gecko--爬蟲類
+鬣蜥--Common Iguana--爬蟲類
+變色龍--American Chameleon--爬蟲類
+鞭尾蜥--Whiptail--爬蟲類
+鬣蜥--Agama--爬蟲類
+褶傘蜥--Frilled Lizard--爬蟲類
+鱷魚蜥蜴--Alligator Lizard--爬蟲類
+美洲毒蜥--Gila Monster--爬蟲類
+綠蜥蜴--Green Lizard--爬蟲類
+非洲變色龍--African Chameleon--爬蟲類
+科莫多巨蜥--Komodo Dragon--爬蟲類
+非洲鱷魚--African Crocodile--爬蟲類
+美洲短吻鱷--American Alligator--爬蟲類
+三角龍--Triceratops--爬蟲類
+雷蛇--Thunder Snake--爬蟲類
+環頸蛇--Ringneck Snake--爬蟲類
+豬鼻蛇--Hognose Snake--爬蟲類
+青蛇--Green Snake--爬蟲類
+王蛇--King Snake--爬蟲類
+襪帶蛇--Garter Snake--爬蟲類
+水蛇--Water Snake--爬蟲類
+藤蛇--Vine Snake--爬蟲類
+夜蛇--Night Snake--爬蟲類
+蟒蛇--Boa Constrictor--爬蟲類
+石蟒蛇--Rock Python--爬蟲類
+印度眼鏡蛇--Indian Cobra--爬蟲類
+綠曼巴蛇--Green Mamba--爬蟲類
+海蛇--Sea Snake--爬蟲類
+角蝰--Horned Viper--爬蟲類
+菱蛇--Diamondback--爬蟲類
+響尾蛇--Sidewinder--爬蟲類
+三葉蟲--Trilobite--節肢類
+盲蛛--Phalangium Opilio--節肢類
+蠍子--Scorpion--節肢類
+黑金蜘蛛--Garden Spider--節肢類
+穀倉蜘蛛--Barn Spider--節肢類
+花園蜘蛛--Garden Spider--節肢類
+黑寡婦--Black Widow--節肢類
+捕鳥蛛--Tarantula--節肢類
+狼蛛--Wolf Spider--節肢類
+蜱虱--Tick--節肢類
+蜈蚣--Centipede--節肢類
+黑松雞--Black Grouse--鳥類
+鷓鴣--Ptarmigan--鳥類
+松雞--Ruffed Grouse--鳥類
+草原雞--Prairie Chicken--鳥類
+孔雀--Peacock--鳥類
+鵪鶉--Quail--鳥類
+鷓鴣--Partridge--鳥類
+非洲灰鸚鵡--African Grey--鳥類
+金剛鸚鵡--Macaw--鳥類
+硫鳳頭鸚鵡--Sulphur-Crested Cockatoo--鳥類
+吸蜜鸚鵡--Lorikeet--鳥類
+褐翅鴉鵑--Coucal--鳥類
+食蜂鳥--Bee Eater--鳥類
+犀鳥--Hornbill--鳥類
+蜂鳥--Hummingbird--鳥類
+鶲--Jacamar--鳥類
+巨嘴鳥--Toucan--鳥類
+鴨子--Drake--鳥類
+紅胸沙鴨--Red-Breasted Merganser--鳥類
+鵝--Goose--鳥類
+黑天鵝--Black Swan--鳥類
+長牙象--Tusker--獸類
+針鼴--Echidna--獸類
+鴨嘴獸--Platypus--獸類
+袋鼠--Wallaby--獸類
+無尾熊--Koala--獸類
+袋熊--Wombat--獸類
+水母--Jellyfish--水生類
+海葵--Sea Anemone--水生類
+珊瑚--Brain Coral--水生類
+扁蟲--Flatworm--水生類
+線蟲--Nematode--水生類
+海螺--Conch--水生類
+蝸牛--Snail
+蛞蝓--Slug
+海蛞蝓--Sea Slug--水生類
+石鱉--Chiton--水生類
+鸚鵡螺--Chambered Nautilus--水生類
+太平洋大蟹--Dungeness Crab--水生類
+岩蟹--Rock Crab--水生類
+招潮蟹--Fiddler Crab--水生類
+鱟--King Crab--水生類
+美國龍蝦--American Lobster--水生類
+刺龍蝦--Spiny Lobster--水生類
+小龍蝦--Crayfish--水生類
+寄居蟹--Hermit Crab--水生類
+具足蟲--Isopod--水生類
+白鸛--White Stork--鳥類
+黑鸛--Black Stork--鳥類
+鷺--Spoonbill--鳥類
+火烈鳥--Flamingo--鳥類
+小藍鷺--Little Blue Heron--鳥類
+美國白鷺--American Egret--鳥類
+麻鷺--Bittern--鳥類
+鶴--Crane--鳥類
+秧鶴--Limpkin--鳥類
+歐洲水雞--European Gallinule--鳥類
+美國水鴉--American Coot--鳥類
+鴇鳥--Bustard--鳥類
+翻石鷸--Ruddy Turnstone--鳥類
+紅背鷸--Red-Backed Sandpiper--鳥類
+赤足鷸--Redshank--鳥類
+鷸--Dowitcher--鳥類
+蠣--Oystercatcher--鳥類
+鵜--Pelican--鳥類
+國王企鵝--King Penguin--鳥類
+信天翁--Albatross--鳥類
+灰鯨--Grey Whale--水生類
+虎鯨--Killer Whale--水生類
+儒艮--Dugong--水生類
+海獅--Sea Lion--水生類
+吉娃娃--Chihuahua--狗品種
+日本西班牙獵狗--Japanese Spaniel--狗品種
+馬爾濟斯--Maltese Dog--狗品種
+北京狗--Pekinese--狗品種
+西施犬--Shih-Tzu--狗品種
+查理王小獵犬--Blenheim Spaniel--狗品種
+蝴蝶犬--Papillon--狗品種
+玩賞獵犬--Toy Terrier--狗品種
+羅得西亞--Rhodesian Ridgeback--狗品種
+阿富汗獵犬--Afghan Hound--狗品種
+巴吉犬--Basset--狗品種
+小獵犬--Beagle--狗品種
+尋血獵犬--Bloodhound--狗品種
+布魯克浣熊犬--Bluetick--狗品種
+黑褐浣熊犬--Black-And-Tan Coonhound--狗品種
+沃克獵犬--Walker Hound--狗品種
+英國獵狐犬--English Foxhound--狗品種
+瑞德朋獵浣熊犬--Redbone--狗品種
+拉布拉多獵犬--Borzoi--狗品種
+愛爾蘭獵狼犬--Irish Wolfhound--狗品種
+意大利靈緹犬--Italian Greyhound--狗品種
+惠比特犬--Whippet--狗品種
+伊比沙獵犬--Ibizan Hound--狗品種
+挪威獵麋犬--Norwegian Elkhound--狗品種
+奧達獵犬--Otterhound--狗品種
+薩路基犬--Saluki--狗品種
+蘇格蘭獵鹿犬--Scottish Deerhound--狗品種
+威馬犬--Weimaraner--狗品種
+斯塔福德犬--Staffordshire Bullterrier--狗品種
+美國斯塔福德㹴--Staffordshire Terrie--狗品種
+貝德靈頓㹴--Bedlington Terrier--狗品種
+邊境㹴--Border Terrier--狗品種
+凱利藍㹴--Kerry Blue Terrier--狗品種
+愛爾蘭㹴--Irish Terrier--狗品種
+諾福克㹴--Norfolk Terrier--狗品種
+諾威奇㹴--Norwich Terrier--狗品種
+約克夏犬--Yorkshire Terrier--狗品種
+絲毛狐狸㹴--Wire-Haired Fox Terrier--狗品種
+湖畔㹴--Lakeland Terrier--狗品種
+西里漢㹴--Sealyham Terrier--狗品種
+萬能㹴--Airedale--狗品種
+凱恩㹴--Cairn--狗品種
+澳大利亞㹴--Australian Terrier--狗品種
+丹第丁蒙㹴--Dandie Dinmont--狗品種
+波士頓公牛--Boston Bull--狗品種
+迷你雪納瑞--Miniature Schnauzer--狗品種
+巨型雪納瑞--Giant Schnauzer--狗品種
+標準雪納瑞--Standard Schnauzer--狗品種
+蘇格蘭㹴--Scotch Terrier--狗品種
+西藏㹴--Tibetan Terrier--狗品種
+澳洲絲毛㹴--Silky Terrier--狗品種
+愛爾蘭軟毛㹴--Soft-Coated Wheaten Terrier--狗品種
+西部高地白㹴--West Highland White Terrier--狗品種
+拉薩犬--Lhasa--狗品種
+平塗獵犬--Flat-Coated Retriever--狗品種
+捲曲的獵犬--Curly-Coated Retriever--狗品種
+黃金獵犬--Golden Retriever--狗品種
+拉布拉多獵犬--Labrador Retriever--狗品種
+切薩皮克灣獵犬--Chesapeake Bay Retriever--狗品種
+德國短毛犬--German Short-Haired Pointer--狗品種
+維茲拉犬--Vizsla--狗品種
+英國蹲獵犬--English Setter--狗品種
+愛爾蘭塞特犬--Irish Setter--狗品種
+戈登蹲獵犬--Gordon Setter--狗品種
+布列塔尼獵狗--Brittany Spaniel--狗品種
+克倫伯犬--Clumber--狗品種
+英國斯普林格犬--English Springer--狗品種
+威爾士史賓格犬--Welsh Springer Spaniel--狗品種
+可卡犬--Cocker Spaniel--狗品種
+蘇塞克斯獵犬--Sussex Spaniel--狗品種
+愛爾蘭水獵狗--Irish Water Spaniel--狗品種
+庫瓦茲犬--Kuvasz--狗品種
+舒柏奇犬--Schipperke--狗品種
+格羅安達犬--Groenendael--狗品種
+馬里努阿犬--Malinois--狗品種
+伯瑞犬--Briard--狗品種
+澳洲卡爾犬--Kelpie--狗品種
+可蒙犬--Komondor--狗品種
+英國護羊狗--Old English Sheepdog--狗品種
+設得蘭群島牧羊犬--Shetland Sheepdog--狗品種
+牧羊犬--Collie--狗品種
+邊境牧羊犬--Border Collie--狗品種
+法蘭德斯畜牧犬--Bouvier Des Flandres--狗品種
+羅威犬--Rottweiler--狗品種
+德國牧羊犬--German Shepherd--狗品種
+杜賓狗--Doberman--狗品種
+微短毛獵犬--Miniature Pinscher--狗品種
+大瑞士山犬--Greater Swiss Mountain Dog--狗品種
+伯爾尼山犬--Bernese Mountain Dog--狗品種
+阿彭策爾犬--Appenzeller--狗品種
+恩特布山犬--Entlebucher--狗品種
+拳師犬--Boxer--狗品種
+公牛獒--Bull Mastiff--狗品種
+藏獒--Tibetan Mastiff--狗品種
+法國鬥牛犬--French Bulldog--狗品種
+大丹犬--Great Dane--狗品種
+聖伯納德犬--Saint Bernard--狗品種
+愛斯基摩犬--Eskimo Dog--狗品種
+阿拉斯加雪橇犬--Malamute--狗品種
+西伯利亞雪橇犬--Siberian Husky--狗品種
+達爾馬提亞犬--Dalmatian--狗品種
+猴㹴--Affenpinscher--狗品種
+貝生吉犬--Basenji--狗品種
+巴哥犬--Pug--狗品種
+萊昂貝格犬--Leonberg--狗品種
+紐芬蘭犬--Newfoundland--狗品種
+大比利牛斯犬--Great Pyrenees--狗品種
+薩摩耶犬--Samoyed--狗品種
+博美狗--Pomeranian--狗品種
+鬆獅犬--Chow--狗品種
+荷蘭獅毛犬--Keeshond--狗品種
+布魯塞爾格林芬犬--Brabancon Griffon--狗品種
+彭布羅克犬--Pembroke--狗品種
+羊毛衣犬--Cardigan--狗品種
+玩具貴賓犬--Toy Poodle--狗品種
+迷你貴賓犬--Miniature Poodle--狗品種
+標準貴賓犬--Standard Poodle--狗品種
+墨西哥無毛犬--Mexican Hairless--狗品種
+大灰狼--Timber Wolf--犬科
+白狼--White Wolf--犬科
+赤狼--Red Wolf--犬科
+草原狼--Coyote--犬科
+澳洲野犬--Dingo--犬科
+豺--Dhole--犬科
+非洲獵犬--African Hunting Dog--犬科
+鬣狗--Hyena--犬科
+紅狐--Red Fox--狐類
+敏狐--Kit Fox--狐類
+白狐--Arctic Fox--狐類
+灰狐--Grey Fox--狐類
+虎斑貓--Tabby--貓科
+石虎, 班虎貓--Tiger Cat--貓科
+波斯貓--Persian Cat--貓科
+暹羅貓--Siamese Cat--貓科
+埃及貓--Egyptian Cat--貓科
+美洲獅--Cougar--貓科
+山貓, 林㹭--Lynx--貓科
+花豹--Leopard--貓科
+雪豹--Snow Leopard--貓科
+美洲豹--Jaguar--貓科
+獅子--Lion--貓科
+老虎--Tiger--貓科
+獵豹--Cheetah--貓科
+棕熊--Brown Bear
+美洲黑熊--American Black Bear
+北極熊--polar bear
+懶熊--Sloth Bear
+獴--Mongoose
+貓鼬--Meerkat
+虎甲蟲--Tiger Beetle--昆蟲
+瓢蟲--Ladybug--昆蟲
+步甲科甲蟲--Ground Beetle--昆蟲
+天牛科甲蟲--Long-Horned Beetle--昆蟲
+金花蟲科甲蟲--Leaf Beetle--昆蟲
+糞金龜--Dung Beetle--昆蟲
+兜蟲科甲蟲--Rhinoceros Beetle--昆蟲
+象鼻蟲--Weevil--昆蟲
+蒼蠅--Fly--昆蟲
+蜜蜂--Bee--昆蟲
+螞蟻--Ant--昆蟲
+蚱蜢--Grasshopper--昆蟲
+蟋蟀--Cricket--昆蟲
+竹節蟲--Walking Stick--昆蟲
+蟑螂--Cockroach--昆蟲
+螳螂--Mantis--昆蟲
+蟬--Cicada--昆蟲
+葉蟬--Leafhopper--昆蟲
+草蛉--Lacewing--昆蟲
+蜻蜓--Dragonfly--昆蟲
+豆娘--Damselfly--昆蟲
+優紅蛺蝶--Admiral--昆蟲
+小環蝶--Ringlet--昆蟲
+帝王蝶--Monarch--昆蟲
+菜粉蝶--Cabbage Butterfly--昆蟲
+菲粉蝶--Sulphur Butterfly--昆蟲
+灰蝶--Lycaenid--昆蟲
+海星--Starfish
+海膽--Sea Urchin
+海參--Sea Cucumber
+棉尾兔--Wood Rabbit
+野兔--Hare
+安哥拉兔--Angora
+倉鼠--Hamster
+豪豬--Porcupine
+狐狸松鼠--Fox Squirrel
+旱獺--Marmot
+海狸--Beaver
+豚鼠--Guinea Pig
+馬--Sorrel
+斑馬--Zebra
+豬--Hog
+野豬--Wild Boar
+疣豬--Warthog
+河馬--Hippopotamus
+公牛--Ox
+水牛--Water Buffalo
+野牛--Bison
+綿羊--Sheep
+大角羊--Bighorn
+山羊--Ibex
+麋羚--Hartebeest
+黑斑羚--Impala
+羚羊--Gazelle
+阿拉伯駱駝--Arabian Camel
+駱駝--Llama
+黃鼠狼--Weasel
+貂--Mink
+臭鼬--Polecat
+黑腳鼬--Black-Footed Ferret
+水獺--Otter
+臭鼬--Skunk
+獾--Badger
+犰狳--Armadillo
+三趾樹懶--Three-Toed Sloth
+紅毛猩猩--Orangutan--靈長類
+大猩猩--Gorilla--靈長類
+黑猩猩--Chimpanzee--靈長類
+長臂猿--Gibbon--靈長類
+合趾猿--Siamang--靈長類
+長尾猴--Guenon--靈長類
+赤猴--Patas--靈長類
+狒狒--Baboon--靈長類
+獼猴--Macaque--靈長類
+葉猴--Langur--靈長類
+疣猴--Colobus--靈長類
+長鼻猴--Proboscis Monkey--靈長類
+狨猴--Marmoset--靈長類
+僧帽猴--Capuchin--靈長類
+吼猴--Howler Monkey--靈長類
+伶猴--Titi--靈長類
+蜘蛛猴--Spider Monkey--靈長類
+松鼠猴--Squirrel Monkey--靈長類
+馬達加斯加狸貓--Madagascar Cat--靈長類
+大狐猴--Indri--靈長類
+印度象--Indian Elephant--獸類
+非洲象--African Elephant--獸類
+小熊貓--Lesser Panda--獸類
+大熊貓--Giant Panda--獸類
+鯖魚--Barracouta--水生類
+鰻魚--Eel--水生類
+銀鮭--Coho--水生類
+三色刺蝶魚--Rock Beauty--水生類
+小丑魚--Anemone Fish--水生類
+鱘魚--Sturgeon--水生類
+雀鱔--Gar--水生類
+獅子魚--Lionfish--水生類
+河豚--Puffer--水生類
+算盤--Abacus
+穆斯林長袍--Abaya
+學士服--Academic Gown
+手風琴--Accordion
+吉他--Acoustic Guitar
+航空母艦--Aircraft Carrier
+飛機--Airliner
+飛艇--Airship
+祭壇--Altar
+救護車--Ambulance
+水陸兩用車--Amphibian
+指針時鐘--Analog Clock
+蜂巢--Apiary
+圍裙--Apron
+垃圾桶--Ashcan
+衝鋒槍--Assault Rifle
+背包--Backpack
+麵包店--Bakery
+平衡木--Balance Beam
+氣球--Balloon
+圓珠筆--Ballpoint
+創可貼--Band Aid
+班卓琴--Banjo--樂器
+樓梯欄杆--Bannister
+槓鈴--Barbell--舉重
+理髮椅--Barber Chair
+理髮店--Barbershop
+穀倉--Barn
+晴雨表--Barometer
+木酒桶--Barrel
+獨輪車--Barrow
+棒球--Baseball
+籃球--Basketball
+搖籃--Bassinet
+巴鬆管--Bassoon--樂器
+浴帽泳帽--Bathing/swimming Cap
+浴巾--Bath Towel
+浴缸--Bathtub
+休旅車--Estate Car
+燈塔--Beacon
+燒杯--Beaker
+英式守衛毛帽--Bearskin
+啤酒瓶--Beer Bottle
+啤酒杯--Beer Glass
+鐘塔--Bell Cote
+圍兜--Bib
+協力自行車--Tandem Bicycle
+比基尼--Bikini
+活頁本--Ring Binder
+望遠鏡--Binoculars
+信箱--Birdhouse
+船屋--Boathouse
+雪橇--Bobsled
+領帶--Bolo Tie
+帽子--Bonnet
+書櫃--Bookcase
+書店--Bookshop
+瓶蓋--Bottlecap
+弓--Bow
+領結--Bow Tie
+牌匾--Plaque
+胸罩--Brassiere
+防波堤--Breakwater
+甲盾--Breastplate
+掃帚--Broom
+桶子--Bucket
+帶扣--Buckle
+防彈背心--Bulletproof Vest
+子彈列車--Bullet Train
+肉鋪--Butcher Shop
+出租車--Cab
+大鍋--Caldron
+蠟燭--Candle
+大砲--Cannon
+獨木舟--Canoe
+開罐器--Can Opener
+羊毛衣--Cardigan
+車鏡--Car Mirror
+旋轉木馬--Carousel
+工具包--Carpenter's Kit
+紙箱--Carton
+車輪--Car Wheel
+提款機--ATM
+錄音帶--Cassette
+卡帶機--Cassette Player
+城堡--Castle
+雙體帆船--Catamaran
+CD player--
+大提琴--Cello
+行動電話--Cellular Telephone
+鎖鏈--Chain
+圍網--Chainlink Fence
+鎖子甲--Chain Mail
+鏈鋸--Chain Saw
+櫃子--Chest
+小衣櫥--Chiffonier
+銅鐘--Bell
+中式衣櫥--China Cabinet
+聖誕襪--Christmas Stocking
+教堂--Church
+劇院--Cinema
+刀具--Cleaver
+懸崖住宅--Cliff Dwelling
+披風--Cloak
+木鞋--Clog
+調酒器--Cocktail Shaker
+咖啡杯--Coffee Mug
+咖啡壺--Coffeepot
+線圈--Coil
+密碼鎖--Combination Lock
+鍵盤--Computer Keyboard
+糕餅--Confectionery
+貨船--Container Ship
+敞篷車--Convertible
+開瓶器--Corkscrew
+短號--Cornet--樂器
+牛仔靴--Cowboy Boot
+牛仔帽--Cowboy Hat
+搖籃--Cradle
+起重機--Crane
+安全帽--Crash Helmet
+箱子--Crate
+嬰兒床--Crib
+燉鍋--Crock Pot
+槌球--Croquet Ball
+拐杖--Crutch
+胸甲--Cuirass
+水壩--Dam
+桌子--Desk
+桌上型電腦--Desktop Computer
+傳統電話--Dial Telephone
+尿布--Diaper
+數字時鐘--Digital Clock
+數字手錶--Digital Watch
+餐桌--Dining Table
+抹布--Dishrag
+洗碗機--Dishwasher
+剎車--Disk Brake
+碼頭--Dock
+狗拉雪橇--Dogsled
+拱頂--Dome
+門墊--Doormat
+鑽井平台--Drilling Platform
+鼓--Drum
+鼓槌--Drumstick
+啞鈴--Dumbbell
+荷蘭烤箱--Dutch Oven
+電扇--Electric Fan
+電吉他--Electric Guitar
+軌道電車或火車--Electric Locomotive
+娛樂中心--Entertainment Center
+信封--Envelope
+咖啡機--Espresso Maker
+化妝品--Face Powder
+羽毛圍巾--Feather Boa
+文件櫃--File Cabinet
+消防艇--Fireboat
+消防車--Fire Engine
+防火屏--Fire Screen--壁爐用的
+旗桿--Flagpole
+長笛--Flute
+折疊椅--Folding Chair
+運動頭盔--Football Helmet
+堆高機--Forklift
+噴水池--Fountain
+鋼筆--Fountain Pen
+四腳床--Four-Poster--可裝蚊帳
+貨櫃、火車車廂--Freight Car
+法國號--French Horn--樂器
+平底鍋--Frying Pan
+皮毛大衣--Fur Coat
+垃圾車--Garbage Truck
+防毒面具--Gasmask
+加油站--Gas Pump
+高腳杯--Goblet
+賽車--Go-Kart
+高爾夫球--Golf Ball
+高爾夫車--Golfcart
+獨木舟--Gondola
+鑼--Gong
+禮服--Gown
+三角鋼琴--Grand Piano
+溫室--Greenhouse
+進氣格柵--Grille
+雜貨店--Grocery Store
+斷頭台--Guillotine
+髮飾--Hair Slide
+髮膠--Hair Spray
+半軌卡車--Half Track--軍事武器
+錘子--Hammer
+編織籃, 禮物籃--Hamper
+吹風機--Hand Blower
+手提電腦--Hand-Held Computer
+手帕--Handkerchief
+硬碟--Hard Disc
+口琴--Harmonica
+豎琴--Harp
+收割機--Harvester
+斧頭--Hatchet
+皮套--Holster
+家庭劇院--Home Theater
+蜂窩--Honeycomb
+鉤--Hook
+蓬裙--Hoopskirt
+單槓--Horizontal Bar
+馬車--Horse Cart
+滴漏--Hourglass
+行動影音產品--
+熨斗--Iron
+南瓜燈--Jack-O'-Lantern--萬聖節裝飾
+牛仔褲--Jean
+吉普車--Jeep
+球衣--Jersey
+拼圖--Jigsaw Puzzle
+人力車--Jinrikisha
+操縱桿--Joystick
+和服--Kimono
+護膝--Knee Pad
+繩結--Knot
+實驗服--Lab Coat
+杓子--Ladle
+燈罩--Lampshade
+筆記電腦--Laptop
+割草機--Lawn Mower
+鏡頭蓋--Lens Cap
+開信刀--Letter Opener
+圖書館--Library
+救生艇--Lifeboat
+打火機--Lighter
+豪華轎車--Limousine
+輪船--Ocean Liner
+口紅--Lipstick
+皮鞋--Loafer
+保濕品--Lotion
+擴音器--Loudspeaker
+放大鏡--Loupe
+伐木場--Lumbermill
+指南針--Magnetic Compass
+郵袋--Mailbag
+郵箱--Mailbox
+緊身衣--Maillot
+緊身衣--Tank Suit
+人孔蓋--Manhole Cover
+馬拉卡--Maraca--手搖鈴
+馬林巴--Marimba--木琴
+面具--Mask
+火柴--Matchstick
+五朔節柱--Maypole--節日慶典
+迷宮--Maze
+量杯--Measuring Cup
+藥箱--Medicine Chest
+巨石--Megalith--巨石文化
+麥克風--Microphone
+微波爐--Microwave
+軍裝--Military Uniform
+牛奶罐--Milk Can
+小型巴士--Minibus
+迷你裙--Miniskirt
+小箱型車--Minivan
+導彈--Missile
+手套--Mitten--料理用
+攪拌碗--Mixing Bowl
+組合可動屋--Mobile Home
+福特T型車--Model T--老爺車
+數據機--Modem
+修道院--Monastery
+螢幕--Monitor
+助力車--Moped--腳踏機車
+杵臼--Mortar
+學士帽--Mortarboard
+清真寺--Mosque
+蚊帳--Mosquito Net
+摩托車--Motor Scooter
+越野自行車--Mountain Bike
+帳篷--Mountain Tent
+滑鼠--Mouse
+捕鼠器--Mousetrap
+搬運車--Moving Van
+獸嘴罩--Muzzle
+釘--Nail
+頸托--Neck Brace--扭傷時用
+項鍊--Necklace
+奶嘴--Nipple
+筆記本--Notebook
+方尖碑--Obelisk
+雙簧管--Oboe
+陶笛--Ocarina
+里程表--Odometer
+機油濾清器--Oil Filter
+管風琴--Organ
+示波器--Oscilloscope
+罩裙--Overskirt
+牛車--Oxcart
+氧氣面罩--Oxygen Mask
+包裝袋--Packet
+槳--Paddle
+槳輪--Paddlewheel
+掛鎖--Padlock
+畫筆--Paintbrush
+睡衣--Pajama
+宮殿--Palace
+排笛--Panpipe
+紙捲--Paper Towel
+降落傘--Parachute
+雙槓--Parallel Bars
+長椅--Park Bench
+停車收費表--Parking Meter
+客運車--Passenger Car
+庭院--Patio
+付費電話--Pay-Phone
+台座--Pedestal
+鉛筆盒--Pencil Box
+削鉛筆機--Pencil Sharpener
+香水--Perfume
+培養皿--Petri Dish
+影印機--Photocopier
+撥片--Plectrum--彈撥樂器用
+尖釘盔--Pickelhaube
+尖樁籬柵--Picket Fence
+客貨卡車--Pickup
+碼頭--Pier
+存錢罐--Piggy Bank
+藥瓶--Pill Bottle
+枕頭--Pillow
+乒乓球--Ping-Pong Ball
+風車--Pinwheel
+船--Ship
+壺具--Ewer
+刨刀--Wood Plane
+天文--Planetarium
+塑膠袋--Plastic Bag
+碗盤架--Plate Rack
+犁--Plow
+通馬桶那隻--Plunger
+拍立得相機--Polaroid Camera
+柱狀--Pole
+警車--Police Van
+防雨披風--Poncho
+撞球桌--Pool Table
+飲料瓶--Pop Bottle
+盆栽--Flower Pot
+陶輪--Potter's Wheel--做陶的機器
+電鑽--Power Drill
+地毯--Prayer Rug
+列表機--Printer
+監獄--Prison
+飛彈--Projectile
+投影機--Projector
+冰球--Puck--曲棍球
+沙包--Punching Bag
+錢包--Purse
+羽毛筆--Quill
+被子--Quilt
+賽車--Racer
+球拍--Racket
+加熱器--Radiator
+收音機--Radio
+衛星雷達--Radio Telescope
+雨桶--Rain Barrel
+休旅車--Recreational Vehicle
+魚竿捲軸--Reel
+反光相機--Reflex Camera
+冰箱--Refrigerator
+遙控器--Remote Control
+餐廳--Restaurant
+左輪手槍--Revolver
+步槍--Rifle
+搖椅--Rocking Chair
+烤肉店--Rotisserie
+橡皮擦--Rubber Eraser
+橄欖球--Rugby Ball
+尺--Rule
+運動鞋--Running Shoe
+保險箱--Safe
+安全別針--Safety Pin
+調味罐--Saltshaker
+涼鞋--Sandal
+紗籠--Sarong
+薩克斯風--Saxophone
+劍鞘--Scabbard
+台秤--Scale
+校車--School Bus
+三桅帆船--Schooner
+記分牌--Scoreboard
+螢幕--Screen
+螺絲--Screw
+螺絲起子--Screwdriver
+安全帶--Seat Belt
+縫紉機--Sewing Machine
+盾牌--Shield
+鞋店--Shoe Shop
+屏風--Shoji
+購物籃--Shopping Basket
+購物車--Shopping Cart
+鏟子--Shovel
+淋浴帽--Shower Cap
+浴簾--Shower Curtain
+滑雪--Ski
+滑雪面罩--Ski Mask
+睡袋--Sleeping Bag
+游標尺--Slide Rule
+滑動門--Sliding Door
+吃角子老虎--Slot Bandit
+浮潛用具--Snorkel
+雪地車--Snowmobile
+剷雪犁--Snowplow
+給皂器--Soap Dispenser
+足球--Soccer Ball
+襪子--Sock
+太陽能板--Solar Collector
+草帽--Sombrero
+湯碗--Soup Bowl
+空格鍵--Space Bar
+暖器--Space Heater
+太空梭--Space Shuttle
+鍋鏟抹刀--Spatula
+快艇--Speedboat
+蜘蛛網--Spider Web
+紡錘--Spindle
+跑車--Sports Car
+聚光燈--Spotlight
+舞台--Stage
+蒸汽車--Steam Locomotive
+拱橋--Steel Arch Bridge
+鋼桶--Steel Drum
+聽診器--Stethoscope
+掛巾--Stole--類似圍巾
+石牆--Stone Wall
+碼表--Stopwatch
+爐子--Stove
+篩網--Strainer
+手推車--Trolley
+擔架--Stretcher
+沙發床--Studio Couch
+佛塔--Stupa
+潛艇--Submarine
+套裝--Suit
+日晷--Sundial
+太陽鏡--Sunglass
+墨鏡--Sunglasses
+防曬乳--Sunscreen
+吊橋--Suspension Bridge
+拖把--Swab
+運動衫--Sweatshirt
+泳褲--Swimming Trunks
+鞦韆--Swing
+開關--Switch
+注射器--Syringe
+檯燈--Table Lamp
+坦克車--Tank
+磁帶播放器--Tape Player
+茶壺--Teapot
+泰迪熊--Teddy
+電視--Television
+網球--Tennis Ball
+草屋--Thatch
+劇院布幕--Theater Curtain
+指套頂針--Thimble--針線用
+脫粒機--Thresher--農業收成用
+王座--Throne--國王坐的
+瓦式屋頂--Tile Roof
+烤麵包機--Toaster
+煙草店--Tobacco Shop
+馬桶座圈--Toilet Seat
+火炬--Torch
+圖騰柱--Totem Pole
+拖車--Tow Truck
+玩具店--Toyshop
+拖拉機--Tractor
+拖車--Trailer Truck
+托盤--Tray
+風衣--Trench Coat
+三輪車--Tricycle
+三體船--Trimaran
+三腳架--Tripod
+凱旋門--Triumphal Arch
+無軌電車--Trolleybus
+長號--Trombone--樂器
+浴缸--Tub
+旋轉閘門--Turnstile
+打字機--Typewriter
+雨傘--Umbrella
+獨輪車--Unicycle
+直立鋼琴--Upright Piano
+吸塵器--Vacuum Cleaner
+花瓶--Vase
+拱頂--Vault
+珊瑚絨--Velvet
+販賣機--Vending Machine
+法袍--Vestment
+高架橋--Viaduct
+小提琴--Violin
+排球--Volleyball
+煎餅--Waffle Iron
+掛鐘--Wall Clock
+錢包--Wallet
+衣櫃--Wardrobe
+戰機--Warplane
+洗臉台--Washbasin
+洗衣機--Washer
+水瓶--Water Bottle
+水壺--Water Jug
+水塔--Water Tower
+酒壺--Whiskey Jug
+哨子--Whistle
+假髮--Wig
+窗紗--Window Screen
+窗簾--Window Shade
+領帶--Windsor Tie
+酒瓶--Wine Bottle
+翅膀--Wing
+炒鍋--Wok
+木勺子--Wooden Spoon
+羊毛--Wool
+圍欄--Worm Fence
+殘骸遺跡--Wreck
+高低桅帆船--Yawl
+蒙古包--Yurt
+網站--Web Site
+漫畫書--Comic Book
+填字遊戲--Crossword Puzzle
+街道路標--Street Sign
+交通號誌--Traffic Light
+書套--Book Jacket
+菜單--Menu
+盤子--Plate
+酪梨--Guacamole--食物
+清湯--Consomme--食物
+火鍋--Hot Pot--食物
+乳脂鬆糕--Trifle--食物
+冰淇淋--Ice Cream--食物
+冰棒--Ice Lolly--食物
+法國麵包--French Loaf--食物
+麵包圈--Bagel--食物
+椒鹽捲餅--Pretzel--食物
+乳酪漢堡--Cheeseburger--食物
+熱狗--Hotdog--食物
+馬鈴薯泥--Mashed Potato--食物
+甘藍菜--Head Cabbage--食物
+綠花菜--Broccoli--食物
+白花菜--Cauliflower--食物
+大黃瓜--Zucchini--食物
+金瓜--Spaghetti Squash--食物
+橡子南瓜--Acorn Squash--食物
+胡桃南瓜--Butternut Squash--食物
+黃瓜--Cucumber--食物
+朝鮮薊--Artichoke--食物
+甜椒--Bell Pepper--食物
+刺苞菜薊--Cardoon--食物
+蘑菇--Mushroom--食物
+青蘋果--Granny Smith--食物
+草莓--Strawberry--食物
+橙子--Orange--食物
+檸檬--Lemon--食物
+無花果--Fig--食物
+鳳梨--Pineapple--食物
+香蕉--Banana--食物
+波羅蜜--Jackfruit--食物
+釋迦--Custard Apple--食物
+石榴--Pomegranate--食物
+乾草--Hay--食物
+義式麵食--Carbonara--食物
+巧克力醬--Chocolate Sauce--食物
+麵團--Dough--食物
+肉餅--Meat Loaf--食物
+比薩--Pizza--食物
+鍋餅--Potpie--食物
+捲餅--Burrito--食物
+紅酒--Red Wine--食物
+咖啡--Espresso--食物
+杯蛋糕--Cupcake--食物
+蛋酒--Eggnog--食物
+山岳--Alp--地景
+氣泡--Bubble--地景
+懸崖--Cliff--地景
+珊瑚礁--Coral Reef--地景
+噴泉--Geyser--地景
+湖邊--Lakeside--地景
+海角--Promontory--地景
+沙壩--Sandbar--地景
+海濱, 天際線--Seashore, Skyline--地景
+山谷--Valley--地景
+火山--Volcano--地景
+球員--Ballplayer
+婚禮--Groom
+潛水員--Scuba Diver
+油菜花--Rapeseed
+雛菊--Daisy
+勺蘭--Calceolus
+玉米--Corn
+橡子--Acorn
+玫瑰果--Rosehip
+栗子--Buckeye
+珊瑚菌--Coral Fungus--蕈菇類
+傘菌--Agaric--蕈菇類
+鹿花菌--Gyromitra--蕈菇類
+臭菇--Stinkhorn--蕈菇類
+真菌--Earthstar--蕈菇類
+灰樹花菌--Hen-Of-The-Woods--蕈菇類
+牛肝菌--Bolete--蕈菇類
+花蕊花莖--Capitulum
+衛生紙--Toilet Tissue

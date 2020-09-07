@@ -1,0 +1,7 @@
+//arch = zynqmp; split = false; format = BIN
+the_ROM_image:
+{
+	[fsbl_config]a53_x64
+	[bootloader]E:\a38\project_1.sdk\SD_BOOT\Debug\SD_BOOT.elf
+	[destination_device = pl]E:\a38\project_1.sdk\zcu102_base_trd_wrapper_hw_platform_0\zcu102_base_trd_wrapper.bit
+}

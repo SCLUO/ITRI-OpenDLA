@@ -1,0 +1,13 @@
+prefix=/root/extend/qt_build_5123
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+
+Name: Qt5 Test
+Description: Qt Unit Testing Library
+Version: 5.12.3
+Libs: -L${libdir} -lQt5Test 
+Cflags: -DQT_TESTLIB_LIB -I${includedir}/QtTest -I${includedir}
+Requires: Qt5Core
+

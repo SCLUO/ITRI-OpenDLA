@@ -1,0 +1,179 @@
+13:39:56 INFO  : Registering command handlers for SDK TCF services
+13:39:56 INFO  : Launching XSCT server: xsct.bat -interactive E:\a38\project_1.sdk\temp_xsdb_launch_script.tcl
+13:39:59 INFO  : XSCT server has started successfully.
+13:39:59 INFO  : Successfully done setting XSCT server connection channel  
+13:40:01 INFO  : Successfully done setting SDK workspace  
+13:40:01 INFO  : Processing command line option -hwspec E:/a38/project_1.sdk/zcu102_base_trd_wrapper.hdf.
+13:53:51 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:53:52 INFO  : Jtag cable 'Digilent JTAG-SMT2NC 210308A1CB53' is selected.
+13:53:52 INFO  : 'jtag frequency' command is executed.
+13:53:52 INFO  : Sourcing of 'F:/Xilinx/SDK/2018.3/scripts/sdk/util/zynqmp_utils.tcl' is done.
+13:53:52 INFO  : Context for 'APU' is selected.
+13:53:52 INFO  : Hardware design information is loaded from 'E:/a38/project_1.sdk/zcu102_base_trd_wrapper_hw_platform_0/system.hdf'.
+13:53:52 INFO  : 'configparams force-mem-access 1' command is executed.
+13:53:53 INFO  : Context for 'APU' is selected.
+13:53:53 INFO  : Sourcing of 'E:/a38/project_1.sdk/zcu102_base_trd_wrapper_hw_platform_0/psu_init.tcl' is done.
+13:53:54 INFO  : 'psu_init' command is executed.
+13:53:55 INFO  : 'after 1000' command is executed.
+13:53:55 INFO  : 'psu_ps_pl_isolation_removal' command is executed.
+13:53:56 INFO  : 'after 1000' command is executed.
+13:53:56 INFO  : 'psu_ps_pl_reset_config' command is executed.
+13:53:56 INFO  : 'catch {psu_protection}' command is executed.
+13:53:57 INFO  : Context for processor 'psu_cortexa53_0' is selected.
+13:53:57 INFO  : Processor reset is completed for 'psu_cortexa53_0'.
+13:53:57 INFO  : The application 'E:/a38/project_1.sdk/conv_8x8_3x3_fc_ic32_oc32/Debug/conv_8x8_3x3_fc_ic32_oc32.elf' is downloaded to processor 'psu_cortexa53_0'.
+13:53:57 INFO  : 'configparams force-mem-access 0' command is executed.
+13:53:57 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+source F:/Xilinx/SDK/2018.3/scripts/sdk/util/zynqmp_utils.tcl
+targets -set -nocase -filter {name =~"APU*" && jtag_cable_name =~ "Digilent JTAG-SMT2NC 210308A1CB53"} -index 1
+loadhw -hw E:/a38/project_1.sdk/zcu102_base_trd_wrapper_hw_platform_0/system.hdf -mem-ranges [list {0x80000000 0xbfffffff} {0x400000000 0x5ffffffff} {0x1000000000 0x7fffffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*" && jtag_cable_name =~ "Digilent JTAG-SMT2NC 210308A1CB53"} -index 1
+source E:/a38/project_1.sdk/zcu102_base_trd_wrapper_hw_platform_0/psu_init.tcl
+psu_init
+after 1000
+psu_ps_pl_isolation_removal
+after 1000
+psu_ps_pl_reset_config
+catch {psu_protection}
+targets -set -nocase -filter {name =~"*A53*0" && jtag_cable_name =~ "Digilent JTAG-SMT2NC 210308A1CB53"} -index 1
+rst -processor
+dow E:/a38/project_1.sdk/conv_8x8_3x3_fc_ic32_oc32/Debug/conv_8x8_3x3_fc_ic32_oc32.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+13:53:57 INFO  : Context for processor 'psu_cortexa53_0' is selected.
+13:53:57 INFO  : 'con' command is executed.
+13:53:57 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~"*A53*0" && jtag_cable_name =~ "Digilent JTAG-SMT2NC 210308A1CB53"} -index 1
+con
+----------------End of Script----------------
+
+13:53:57 INFO  : Launch script is exported to file 'E:\a38\project_1.sdk\.sdk\launch_scripts\xilinx_c-c++_application_(system_debugger)\system_debugger_using_debug_conv_8x8_3x3_fc_ic32_oc32.elf_on_local.tcl'
+13:54:05 INFO  : Disconnected from the channel tcfchan#1.
+13:54:06 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:54:20 INFO  : Jtag cable 'Digilent JTAG-SMT2NC 210308A1CB53' is selected.
+13:54:20 INFO  : 'jtag frequency' command is executed.
+13:54:20 INFO  : Sourcing of 'F:/Xilinx/SDK/2018.3/scripts/sdk/util/zynqmp_utils.tcl' is done.
+13:54:20 INFO  : Context for 'APU' is selected.
+13:54:20 INFO  : Hardware design information is loaded from 'E:/a38/project_1.sdk/zcu102_base_trd_wrapper_hw_platform_0/system.hdf'.
+13:54:20 INFO  : 'configparams force-mem-access 1' command is executed.
+13:54:20 INFO  : Context for 'APU' is selected.
+13:54:20 INFO  : Sourcing of 'E:/a38/project_1.sdk/zcu102_base_trd_wrapper_hw_platform_0/psu_init.tcl' is done.
+13:54:22 INFO  : 'psu_init' command is executed.
+13:54:23 INFO  : 'after 1000' command is executed.
+13:54:23 INFO  : 'psu_ps_pl_isolation_removal' command is executed.
+13:54:24 INFO  : 'after 1000' command is executed.
+13:54:24 INFO  : 'psu_ps_pl_reset_config' command is executed.
+13:54:24 INFO  : 'catch {psu_protection}' command is executed.
+13:54:24 INFO  : Context for processor 'psu_cortexa53_0' is selected.
+13:54:24 INFO  : Processor reset is completed for 'psu_cortexa53_0'.
+13:54:24 INFO  : The application 'E:/a38/project_1.sdk/dla_copy/Debug/dla_copy.elf' is downloaded to processor 'psu_cortexa53_0'.
+13:54:24 INFO  : 'configparams force-mem-access 0' command is executed.
+13:54:24 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+source F:/Xilinx/SDK/2018.3/scripts/sdk/util/zynqmp_utils.tcl
+targets -set -nocase -filter {name =~"APU*" && jtag_cable_name =~ "Digilent JTAG-SMT2NC 210308A1CB53"} -index 1
+loadhw -hw E:/a38/project_1.sdk/zcu102_base_trd_wrapper_hw_platform_0/system.hdf -mem-ranges [list {0x80000000 0xbfffffff} {0x400000000 0x5ffffffff} {0x1000000000 0x7fffffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*" && jtag_cable_name =~ "Digilent JTAG-SMT2NC 210308A1CB53"} -index 1
+source E:/a38/project_1.sdk/zcu102_base_trd_wrapper_hw_platform_0/psu_init.tcl
+psu_init
+after 1000
+psu_ps_pl_isolation_removal
+after 1000
+psu_ps_pl_reset_config
+catch {psu_protection}
+targets -set -nocase -filter {name =~"*A53*0" && jtag_cable_name =~ "Digilent JTAG-SMT2NC 210308A1CB53"} -index 1
+rst -processor
+dow E:/a38/project_1.sdk/dla_copy/Debug/dla_copy.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+13:54:24 INFO  : Context for processor 'psu_cortexa53_0' is selected.
+13:54:24 INFO  : 'con' command is executed.
+13:54:24 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~"*A53*0" && jtag_cable_name =~ "Digilent JTAG-SMT2NC 210308A1CB53"} -index 1
+con
+----------------End of Script----------------
+
+13:54:24 INFO  : Launch script is exported to file 'E:\a38\project_1.sdk\.sdk\launch_scripts\xilinx_c-c++_application_(system_debugger)\system_debugger_using_debug_dla_copy.elf_on_local.tcl'
+14:01:02 INFO  : Invoking Bootgen: bootgen -image SD_BOOT.bif -arch zynqmp -o E:\a38\project_1.sdk\SD_BOOT\bootimage\BOOT.bin
+14:01:02 INFO  : Creating new bif file E:\a38\project_1.sdk\SD_BOOT\bootimage\SD_BOOT.bif
+14:01:05 INFO  : Bootgen command execution is done.
+14:11:40 INFO  : Restoring File Contents to Memory...
+14:11:40 INFO  : Restored Contents to Memory Successfully from File E:\test pattern\nv_small\conv_8x8_3x3_fc_ic32_oc32\CONV_SDP_0_input.bin
+14:12:12 INFO  : Restoring File Contents to Memory...
+14:12:12 INFO  : Restored Contents to Memory Successfully from File E:\test pattern\nv_small\conv_8x8_3x3_fc_ic32_oc32\CONV_SDP_0_weight.bin
+14:12:43 INFO  : Restoring File Contents to Memory...
+14:12:43 INFO  : Restored Contents to Memory Successfully from File E:\test pattern\nv_small\conv_8x8_3x3_fc_ic32_oc32\CONV_SDP_0_output_golden.bin
+14:13:05 INFO  : Disconnected from the channel tcfchan#2.
+14:13:06 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:13:20 INFO  : Jtag cable 'Digilent JTAG-SMT2NC 210308A1CB53' is selected.
+14:13:20 INFO  : 'jtag frequency' command is executed.
+14:13:20 INFO  : Sourcing of 'F:/Xilinx/SDK/2018.3/scripts/sdk/util/zynqmp_utils.tcl' is done.
+14:13:20 INFO  : Context for 'APU' is selected.
+14:13:21 INFO  : Hardware design information is loaded from 'E:/a38/project_1.sdk/zcu102_base_trd_wrapper_hw_platform_0/system.hdf'.
+14:13:21 INFO  : 'configparams force-mem-access 1' command is executed.
+14:13:21 INFO  : Context for processor 'psu_cortexa53_0' is selected.
+14:13:21 INFO  : Processor reset is completed for 'psu_cortexa53_0'.
+14:13:21 INFO  : The application 'E:/a38/project_1.sdk/conv_8x8_3x3_fc_ic32_oc32/Debug/conv_8x8_3x3_fc_ic32_oc32.elf' is downloaded to processor 'psu_cortexa53_0'.
+14:13:21 INFO  : 'configparams force-mem-access 0' command is executed.
+14:13:21 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+source F:/Xilinx/SDK/2018.3/scripts/sdk/util/zynqmp_utils.tcl
+targets -set -nocase -filter {name =~"APU*" && jtag_cable_name =~ "Digilent JTAG-SMT2NC 210308A1CB53"} -index 1
+loadhw -hw E:/a38/project_1.sdk/zcu102_base_trd_wrapper_hw_platform_0/system.hdf -mem-ranges [list {0x80000000 0xbfffffff} {0x400000000 0x5ffffffff} {0x1000000000 0x7fffffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"*A53*0" && jtag_cable_name =~ "Digilent JTAG-SMT2NC 210308A1CB53"} -index 1
+rst -processor
+dow E:/a38/project_1.sdk/conv_8x8_3x3_fc_ic32_oc32/Debug/conv_8x8_3x3_fc_ic32_oc32.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:13:22 INFO  : Context for processor 'psu_cortexa53_0' is selected.
+14:13:22 INFO  : 'con' command is executed.
+14:13:22 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~"*A53*0" && jtag_cable_name =~ "Digilent JTAG-SMT2NC 210308A1CB53"} -index 1
+con
+----------------End of Script----------------
+
+14:13:22 INFO  : Launch script is exported to file 'E:\a38\project_1.sdk\.sdk\launch_scripts\xilinx_c-c++_application_(system_debugger)\system_debugger_using_debug_conv_8x8_3x3_fc_ic32_oc32.elf_on_local.tcl'
+14:15:26 INFO  : Restoring File Contents to Memory...
+14:15:33 INFO  : Restored Contents to Memory Successfully from File E:\test pattern\nv_small\dla_copy\Image_q_dog_HW.bin
+14:16:07 INFO  : Restoring File Contents to Memory...
+14:16:14 INFO  : Restored Contents to Memory Successfully from File E:\test pattern\nv_small\dla_copy\Image_q_dog_HW.bin
+14:16:39 INFO  : Disconnected from the channel tcfchan#4.
+14:16:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:16:54 INFO  : Jtag cable 'Digilent JTAG-SMT2NC 210308A1CB53' is selected.
+14:16:54 INFO  : 'jtag frequency' command is executed.
+14:16:54 INFO  : Sourcing of 'F:/Xilinx/SDK/2018.3/scripts/sdk/util/zynqmp_utils.tcl' is done.
+14:16:54 INFO  : Context for 'APU' is selected.
+14:16:55 INFO  : Hardware design information is loaded from 'E:/a38/project_1.sdk/zcu102_base_trd_wrapper_hw_platform_0/system.hdf'.
+14:16:55 INFO  : 'configparams force-mem-access 1' command is executed.
+14:16:55 INFO  : Context for processor 'psu_cortexa53_0' is selected.
+14:16:55 INFO  : Processor reset is completed for 'psu_cortexa53_0'.
+14:16:55 INFO  : The application 'E:/a38/project_1.sdk/dla_copy/Debug/dla_copy.elf' is downloaded to processor 'psu_cortexa53_0'.
+14:16:55 INFO  : 'configparams force-mem-access 0' command is executed.
+14:16:55 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+source F:/Xilinx/SDK/2018.3/scripts/sdk/util/zynqmp_utils.tcl
+targets -set -nocase -filter {name =~"APU*" && jtag_cable_name =~ "Digilent JTAG-SMT2NC 210308A1CB53"} -index 1
+loadhw -hw E:/a38/project_1.sdk/zcu102_base_trd_wrapper_hw_platform_0/system.hdf -mem-ranges [list {0x80000000 0xbfffffff} {0x400000000 0x5ffffffff} {0x1000000000 0x7fffffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"*A53*0" && jtag_cable_name =~ "Digilent JTAG-SMT2NC 210308A1CB53"} -index 1
+rst -processor
+dow E:/a38/project_1.sdk/dla_copy/Debug/dla_copy.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:16:55 INFO  : Context for processor 'psu_cortexa53_0' is selected.
+14:16:55 INFO  : 'con' command is executed.
+14:16:55 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~"*A53*0" && jtag_cable_name =~ "Digilent JTAG-SMT2NC 210308A1CB53"} -index 1
+con
+----------------End of Script----------------
+
+14:16:55 INFO  : Launch script is exported to file 'E:\a38\project_1.sdk\.sdk\launch_scripts\xilinx_c-c++_application_(system_debugger)\system_debugger_using_debug_dla_copy.elf_on_local.tcl'
+14:17:02 INFO  : Disconnected from the channel tcfchan#5.
