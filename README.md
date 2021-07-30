@@ -1,7 +1,7 @@
 ## ITRI-OpenDLA 
-Express open-DLA implementation kit for FPGA demo, revised based on [NVDLA](http://nvdla.org/index.html)
+About more information, please visit our [public demos and introductions](https://sites.google.com/view/itri-icl-dla/)
 
-About more information, please visit our public [site](https://sites.google.com/view/itri-icl-dla/)
+Express open-DLA implementation kit for FPGA demo, revised based on [NVDLA](http://nvdla.org/index.html)
 
 ![](FPGA_System.png)
 
