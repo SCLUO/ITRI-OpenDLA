@@ -32,3 +32,5 @@ Express open-DLA implementation kit for FPGA demo, revised based on [NVDLA](http
 [Introduction Presentation](/papers/IntroPresentation.pdf)
 ![ChipExamples](ChipExamples.png)
 
+Contact me : scluo@itri.org.tw
+
