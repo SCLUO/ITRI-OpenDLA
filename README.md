@@ -13,7 +13,6 @@ About more information, please visit our public publications.
 
 =======
 Express open-DLA implementation kit for FPGA demo, revised based on [NVDLA](http://nvdla.org/index.html)
->>>>>>> b862a50a2da1cb11cd09051aae0d4d6530be6023
 
 ![](FPGA_System.png)
 
